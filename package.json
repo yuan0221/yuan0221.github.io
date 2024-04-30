@@ -2,6 +2,7 @@
   "name": "blog-astro-github-pages",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@7.13.4",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
