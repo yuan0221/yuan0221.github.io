@@ -1,38 +1,24 @@
 ---
-import Layout from "../layouts/Layout.astro";
-import Card from "../components/Card.astro";
+import LayoutDefault from '~/layouts/LayoutDefault.astro'
+import Post from '~/components/Post.astro'
+import { getPosts, getPostDescription } from '~/utils'
+import Pagination from '~/components/Pagination.astro'
+
+const posts = (await getPosts()).slice(0, 5)
+
+const { translate: t } = Astro.locals
+
 ---
 
-<Layout title="Welcome to Astro.">
-  <main>
-    <h1>hello blog</h1>
-  </main>
-</Layout>
-
-<style>
-  main {
-    margin: auto;
-    padding: 1rem;
-    width: 800px;
-    max-width: calc(100% - 2rem);
-    color: white;
-    font-size: 20px;
-    line-height: 1.6;
-  }
-  .astro-a {
-    position: absolute;
-    top: -32px;
-    left: 50%;
-    transform: translatex(-50%);
-    width: 220px;
-    height: auto;
-    z-index: -1;
-  }
-  h1 {
-    font-size: 4rem;
-    font-weight: 700;
-    line-height: 1;
-    text-align: center;
-    margin-bottom: 1em;
-  }
-</style>
+<LayoutDefault>
+  <section contain-layout un-flex="~ col gap-7.5">
+    {
+      posts.map((post) => (
+        <Post post={post}>
+          <p class="line-clamp-4">{getPostDescription(post)}</p>
+        </Post>
+      ))
+    }
+    <Pagination showLeft={false} showPageCount={false} rightTitle={t('all_posts')} rightUrl={'posts/page/1'} />
+  </section>
+</LayoutDefault>
