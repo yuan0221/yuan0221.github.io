@@ -1,8 +1,8 @@
 export const THEME_CONFIG: App.Locals['config'] = {
   /** blog title */
-  title: "活版印字",
+  title: "远志威廉",
   /** your name */
-  author: "Typography",
+  author: "William Yuan",
   /** website description */
   desc: "Rediscory the beauty of typography",
   /** your deployed domain */
@@ -15,7 +15,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   socials: [
     {
       name: "github",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/yuan0221/yuan0221.github.io",
     },
     {
       name: "rss",
@@ -23,16 +23,16 @@ export const THEME_CONFIG: App.Locals['config'] = {
     },
     {
       name: "twitter",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/yuan0221/yuan0221.github.io",
     },
     {
       name: "mastodon",
-      href: "https://github.com/moeyua/astro-theme-typography",
+      href: "https://github.com/yuan0221/yuan0221.github.io",
     }
   ],
   /** your header info */
   header: {
-    twitter: "@moeyua13",
+    twitter: "@williamyuanzhi",
   },
   /** your navigation links */
   navs: [
