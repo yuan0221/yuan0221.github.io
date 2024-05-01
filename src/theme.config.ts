@@ -8,7 +8,7 @@ export const THEME_CONFIG: App.Locals['config'] = {
   /** your deployed domain */
   website: 'https://yuan0221.github.io/',
   /** your locale */
-  locale: "en-us",
+  locale: "zh-cn",
   /** theme style */
   themeStyle: "light",
   /** your socials */
@@ -18,17 +18,13 @@ export const THEME_CONFIG: App.Locals['config'] = {
       href: "https://github.com/yuan0221/yuan0221.github.io",
     },
     {
+      name: "twitter",
+      href: "https://twitter.com/williamyuanzhi",
+    },
+    {
       name: "rss",
       href: "/atom.xml",
     },
-    {
-      name: "twitter",
-      href: "https://github.com/yuan0221/yuan0221.github.io",
-    },
-    {
-      name: "mastodon",
-      href: "https://github.com/yuan0221/yuan0221.github.io",
-    }
   ],
   /** your header info */
   header: {
