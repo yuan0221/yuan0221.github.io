@@ -11,7 +11,8 @@
     "release": "esno scripts/release.ts",
     "astro": "astro",
     "new-post": "esno scripts/new-post.ts",
-    "update-theme": "./scripts/update-theme.sh"
+    "update-theme": "./scripts/update-theme.sh",
+    "pb": "node cut.cjs"
   },
   "dependencies": {
     "@astrojs/check": "^0.5.10",
