@@ -9,6 +9,7 @@ categories: ["思考总结"]
 
 在这段时间里，我完成了几个项目：
 
+- [rollup-learning](https://github.com/yuan0221/rollup-learning): 一个 rollup 入门学习演练库。
 - [vite-vue3-ts-template](https://github.com/yuan0221/vite-vue3-ts-template/): 一个整合了 vite、vue3 和 ts 的起始模板。
 - [js-training](https://github.com/yuan0221/js-training): 收集了一些 JavaScript 题目。
 - [我的博客](https://yuan0221.github.io/): 使用 Astro 构建，部署在 GitHub Pages 上。
