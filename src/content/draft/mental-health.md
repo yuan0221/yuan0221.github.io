@@ -7,12 +7,13 @@ categories: ["思考总结"]
 
 > 当你阅读这篇文章时，我正处于一段心境良好的状态。我的日常工作节奏忙碌而有序，同时我也在不断探索新领域，这对我而言至关重要。虽然我经历了一段艰难的时光，但最终一切都迎来了好的结果，请大家放心。
 
-在这段时间里，我完成了几个项目：
+在这段时间里，我创建了几个项目：
 
 - [rollup-learning](https://github.com/yuan0221/rollup-learning): 一个 rollup 入门学习演练库。
-- [vite-vue3-ts-template](https://github.com/yuan0221/vite-vue3-ts-template/): 一个整合了 vite、vue3 和 ts 的起始模板。
 - [js-training](https://github.com/yuan0221/js-training): 收集了一些 JavaScript 题目。
+- [vite-vue3-ts-template](https://github.com/yuan0221/vite-vue3-ts-template/): 一个整合了 vite、vue3 和 ts 的起始模板。
 - [我的博客](https://yuan0221.github.io/): 使用 Astro 构建，部署在 GitHub Pages 上。
+- [taro-mini-program-starter-template](https://github.com/yuan0221/taro-mini-program-starter-template): 一个使用 Taro 的小程序开发起始模板。
 
 最近我一直在积极参加面试，回顾这段经历，我深知面试过程充满挑战，每次都有一些细节没有做到位，但这也让我更清楚地认识到自己的不足。幸运的是，最终我成功地找到了工作，而这一切都离不开我老婆的支持，她为我解决了遇到的各种问题。我要由衷地感谢她，如果没有她的帮助，我可能还会在困境中挣扎，甚至没有机会写下这篇博客。
 
