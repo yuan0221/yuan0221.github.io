@@ -7,7 +7,7 @@ categories: ["面试"]
 
 # Essentials For Interview
 
-> *Hello Everyone, this is my first english blog. Today I'm here i want to talk about interview. In this weekend，i watched the first part of this [bilibili video](https://www.bilibili.com/video/BV1N24y167f2?p=9&vd_source=efd503d8a8a8fd243454ab62796aaf15) quickly. I wrote down some key points and eager to share with you. I checked this article's grammar by GPT, sorry I am a perfectionist. On the other hand, More important reason is to lear english by write blog。Some of the key points is be worth to think, If you are interested, please continue reading。*
+> *Hello Everyone, this is my first english blog. Today I'm here i want to talk about interview. In this weekend，i watched the first part of this [bilibili video](https://www.bilibili.com/video/BV1N24y167f2?p=9&vd_source=efd503d8a8a8fd243454ab62796aaf15) quickly. I wrote down some key points and eager to share with you. I wanted to use GPT to check word spelling and format, but I was not satisfied with the result, so there will be some mistakes, sorry。Why I wrote this article？ More important reason is to learn english by write blog。In my opinion，Some of the key points is be worth to think, If you are interested, please continue reading。*
 
 ## Requirements
 Requirements is a noun. Requirements means you have done da da da several things before you join in a company.If you didn't do or if you don't have this much experience,you cannot work here. These are requirements that a company may have before they hire someone.
