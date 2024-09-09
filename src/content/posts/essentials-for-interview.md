@@ -5,7 +5,6 @@ pubDate: "Aug 09 2024"
 categories: ["面试"]
 ---
 
-# Essentials For Interview
 
 > *Hello Everyone, this is my first english blog. Today I'm here i want to talk about interview. In this weekend，i watched the first part of this [bilibili video](https://www.bilibili.com/video/BV1N24y167f2?p=9&vd_source=efd503d8a8a8fd243454ab62796aaf15) quickly. I wrote down some key points and eager to share with you. I wanted to use GPT to check word spelling and format, but I was not satisfied with the result, so there will be some mistakes, sorry。Why I wrote this article？ More important reason is to learn english by write blog。In my opinion，Some of the key points is worth thinking, If you are interested, please continue reading。*
 
