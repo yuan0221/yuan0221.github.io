@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    .editor {
+      width: 500px;
+      height: 300px;
+      border: 1px solid skyblue;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="editor">11112211122222333</div>
+  <input type="search" />
+  <button>Search</button>
+
+  <script>
+    document.querySelector('button').addEventListener('click', function() {
+      const searchValue = document.querySelector('input').value
+      const regExp = new RegExp(searchValue, 'g')
+      const editor = document.querySelector('.editor')
+      const textValue = editor.innerHTML.replace(
+        regExp, 
+        `<span style="background: yellow;">${searchValue}</span>`
+      )
+      editor.innerHTML = textValue
+    })
+  </script>
+</body>
+
+</html>
